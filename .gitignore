@@ -1,3 +1,6 @@
 ./data
 data
 .venv
+
+ML_Pedal_Input.wav
+ML_Pedal_Output.wav
