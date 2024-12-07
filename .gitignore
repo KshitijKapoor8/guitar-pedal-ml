@@ -1,6 +1,11 @@
 ./data
 data
+
 .venv
+__pycache__
 
 *.wav
 *.pth
+
+cur_hp.json
+lstm_guitar_model.json
