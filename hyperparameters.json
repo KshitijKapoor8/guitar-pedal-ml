@@ -1,1 +1,4 @@
-{"hidden_size": 96, "train_window": 1000}
+{
+  "hidden_size": [32, 64, 96],
+  "train_window": [500, 1000, 2000]
+}
